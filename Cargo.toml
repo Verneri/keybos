@@ -1,0 +1,10 @@
+[package]
+name = "keybos"
+version = "0.1.0"
+authors = ["Andre Richter <andre.o.richter@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+panic-abort = "0.3.1"
+
+
